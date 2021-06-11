@@ -1,0 +1,1772 @@
+fileFormatVersion: 2
+guid: 4f25935e7ed094641bc0a4812f4a281f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3154239963322159253
+    second: escena_0
+  - first:
+      213: -4747537444534922406
+    second: escena_1
+  - first:
+      213: 4072399022408418742
+    second: escena_2
+  - first:
+      213: 8810199328846907383
+    second: escena_3
+  - first:
+      213: 5070348822005609308
+    second: escena_4
+  - first:
+      213: -563008449989277785
+    second: escena_5
+  - first:
+      213: 3830318856514038646
+    second: escena_6
+  - first:
+      213: -3169272795031652940
+    second: escena_7
+  - first:
+      213: -3620707102277105764
+    second: escena_8
+  - first:
+      213: 8993896324248997588
+    second: escena_9
+  - first:
+      213: 178084959093639696
+    second: escena_10
+  - first:
+      213: -2999282278646905811
+    second: escena_11
+  - first:
+      213: -6996810560656623797
+    second: escena_12
+  - first:
+      213: 170076789252444375
+    second: escena_13
+  - first:
+      213: -5401757711225456470
+    second: escena_14
+  - first:
+      213: 7863673165679038374
+    second: escena_15
+  - first:
+      213: -9132960894335932717
+    second: escena_16
+  - first:
+      213: 4315611937120123825
+    second: escena_17
+  - first:
+      213: 5369222409122187435
+    second: escena_18
+  - first:
+      213: 159286860721260655
+    second: escena_19
+  - first:
+      213: 563950047202454322
+    second: escena_20
+  - first:
+      213: -39103535417648407
+    second: escena_21
+  - first:
+      213: 6345042675233178992
+    second: escena_22
+  - first:
+      213: -5527943133778288720
+    second: escena_23
+  - first:
+      213: 5773127842846379229
+    second: escena_24
+  - first:
+      213: 5455506027450542838
+    second: escena_25
+  - first:
+      213: -7157819111882359955
+    second: escena_26
+  - first:
+      213: -5812838244275430431
+    second: escena_27
+  - first:
+      213: 5277630311998762720
+    second: escena_28
+  - first:
+      213: -6474390817050247735
+    second: escena_29
+  - first:
+      213: -4350733085406314126
+    second: escena_30
+  - first:
+      213: 2158906028922190591
+    second: escena_31
+  - first:
+      213: -4360589023062562978
+    second: escena_32
+  - first:
+      213: 8061365437783610413
+    second: escena_33
+  - first:
+      213: 3058683210718873157
+    second: escena_34
+  - first:
+      213: 227263064081150008
+    second: escena_35
+  - first:
+      213: 6355472315829672851
+    second: escena_36
+  - first:
+      213: 129408113974270350
+    second: escena_37
+  - first:
+      213: 6831969071330824253
+    second: escena_38
+  - first:
+      213: -2346284617961499351
+    second: escena_39
+  - first:
+      213: 8427063285024337045
+    second: escena_40
+  - first:
+      213: 1388116161560234379
+    second: escena_41
+  - first:
+      213: -2985114079570037938
+    second: escena_42
+  - first:
+      213: 1940201441447463907
+    second: escena_43
+  - first:
+      213: 3886864220028640201
+    second: escena_44
+  - first:
+      213: -4310657377581432919
+    second: escena_45
+  - first:
+      213: -4110860347671045690
+    second: escena_46
+  - first:
+      213: 2897473978402421615
+    second: escena_47
+  - first:
+      213: 4495586945585987432
+    second: escena_48
+  - first:
+      213: -7583145571863866940
+    second: escena_49
+  - first:
+      213: -5760054589916925447
+    second: escena_50
+  - first:
+      213: -5105912125755322583
+    second: escena_51
+  - first:
+      213: -3933138187971715995
+    second: escena_52
+  - first:
+      213: -7141258700297750066
+    second: escena_53
+  - first:
+      213: -7452066512047398378
+    second: escena_54
+  - first:
+      213: 7046947057798969647
+    second: escena_55
+  - first:
+      213: -2657320258899344426
+    second: escena_56
+  - first:
+      213: 2364108401683425295
+    second: escena_57
+  - first:
+      213: 5715188353926779869
+    second: escena_58
+  - first:
+      213: 2969917916351887978
+    second: escena_59
+  - first:
+      213: 1550467054151541996
+    second: escena_60
+  - first:
+      213: 2467292924153261961
+    second: escena_61
+  - first:
+      213: 3931448654012573406
+    second: escena_62
+  - first:
+      213: -1605888414546867441
+    second: escena_63
+  - first:
+      213: 3382806892257247179
+    second: escena_64
+  - first:
+      213: 1564798761341681952
+    second: escena_65
+  - first:
+      213: 8816420229519499976
+    second: escena_66
+  - first:
+      213: 5707287615849004269
+    second: escena_67
+  - first:
+      213: -1622859569425543834
+    second: escena_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: escena_0
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 552
+        width: 83
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f67d91773e934d0800000000000000
+      internalID: -3154239963322159253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 512
+        width: 194
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5351a409db5d1eb0800000000000000
+      internalID: -4747537444534922406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 538
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b54d4a9551148830800000000000000
+      internalID: 4072399022408418742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 463
+        width: 256
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f70e447c9d144a70800000000000000
+      internalID: 8810199328846907383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 457
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53f6f6c36f7d5640800000000000000
+      internalID: 5070348822005609308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 457
+        width: 159
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a788d43ccacf28f0800000000000000
+      internalID: -563008449989277785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_6
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 457
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67beff2c4b6082530800000000000000
+      internalID: 3830318856514038646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 377
+        width: 24
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b534d73f2b7404d0800000000000000
+      internalID: -3169272795031652940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 377
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c970a05e21aa0cdc0800000000000000
+      internalID: -3620707102277105764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 377
+        width: 24
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de8d812e0db0dc70800000000000000
+      internalID: 8993896324248997588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 422
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01acd96a35fa87200800000000000000
+      internalID: 178084959093639696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 284
+        width: 258
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24802098a86066d0800000000000000
+      internalID: -2999282278646905811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_12
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 382
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b473c53add556ee90800000000000000
+      internalID: -6996810560656623797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 282
+        width: 144
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d05eef40fb3c5200800000000000000
+      internalID: 170076789252444375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_14
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 340
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8fdab3bf91905b0800000000000000
+      internalID: -5401757711225456470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 283
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af0216a411612d60800000000000000
+      internalID: 7863673165679038374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 139
+        width: 97
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6a2918474314180800000000000000
+      internalID: -9132960894335932717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_17
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 140
+        width: 142
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbfa74113224eb30800000000000000
+      internalID: 4315611937120123825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_18
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 252
+        width: 110
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba88bcf655f438a40800000000000000
+      internalID: 5369222409122187435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 185
+        width: 100
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f688dae4e86e53200800000000000000
+      internalID: 159286860721260655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_20
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 193
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b219a749d83d700800000000000000
+      internalID: 563950047202454322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_21
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 192
+        width: 73
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea18fdaa83157ff0800000000000000
+      internalID: -39103535417648407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_22
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 140
+        width: 140
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075c7f512be1e0850800000000000000
+      internalID: 6345042675233178992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 141
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfd594120dc843b0800000000000000
+      internalID: -5527943133778288720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_24
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 138
+        width: 113
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc86cb8f254e1050800000000000000
+      internalID: 5773127842846379229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 92
+        width: 192
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa2134d3d9d5bb40800000000000000
+      internalID: 5455506027450542838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_26
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 87
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bffb501715aac90800000000000000
+      internalID: -7157819111882359955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_27
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 87
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb58212a66a45fa0800000000000000
+      internalID: -5812838244275430431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_28
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 87
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee25828ec8ed3940800000000000000
+      internalID: 5277630311998762720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_29
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 86
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd3baccad75626a0800000000000000
+      internalID: -6474390817050247735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_30
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 87
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27141db5f471f93c0800000000000000
+      internalID: -4350733085406314126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_31
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 86
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa3b5d4899f5fd10800000000000000
+      internalID: 2158906028922190591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_32
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 62
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5763ec03631c73c0800000000000000
+      internalID: -4360589023062562978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_33
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 55
+        width: 26
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2414bb9729bfdf60800000000000000
+      internalID: 8061365437783610413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546895fac20a27a20800000000000000
+      internalID: 3058683210718873157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 40
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830bf1d7d86672300800000000000000
+      internalID: 227263064081150008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 40
+        width: 131
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b5bd4066c233850800000000000000
+      internalID: 6355472315829672851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_37
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 75
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e895d787effbbc100800000000000000
+      internalID: 129408113974270350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_38
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 71
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30112d4ca700de50800000000000000
+      internalID: 6831969071330824253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 71
+        width: 68
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92511743292507fd0800000000000000
+      internalID: -2346284617961499351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_40
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 71
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cac93c861f2f470800000000000000
+      internalID: 8427063285024337045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_41
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 59
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89c6cc5b44934310800000000000000
+      internalID: 1388116161560234379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_42
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 50
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43f5397f8eb296d0800000000000000
+      internalID: -2985114079570037938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 54
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb4d2e6eeafcea10800000000000000
+      internalID: 1940201441447463907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_44
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 54
+        width: 68
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb9bf42a6ae0f530800000000000000
+      internalID: 3886864220028640201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_45
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 54
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af77d434f77d24c0800000000000000
+      internalID: -4310657377581432919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_46
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 40
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c914d74b4a43f6c0800000000000000
+      internalID: -4110860347671045690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_47
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b3d9c5b35e53820800000000000000
+      internalID: 2897473978402421615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_48
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 49
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f39842288836e30800000000000000
+      internalID: 4495586945585987432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_49
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 38
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c15af4974143c690800000000000000
+      internalID: -7583145571863866940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 38
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1b4295edc2010b0800000000000000
+      internalID: -5760054589916925447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_51
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 38
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f8ef159f72429b0800000000000000
+      internalID: -5105912125755322583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_52
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 38
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c1c6d18afaa69c0800000000000000
+      internalID: -3933138187971715995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_53
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 38
+        width: 68
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b59f4c0725ec90800000000000000
+      internalID: -7141258700297750066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_54
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 38
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612a4d27df0f49890800000000000000
+      internalID: -7452066512047398378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_55
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 30
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2977134309cbc160800000000000000
+      internalID: 7046947057798969647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_56
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d30bd9bd4d4f1bd0800000000000000
+      internalID: -2657320258899344426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_57
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 27
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f086bd4d0100fc020800000000000000
+      internalID: 2364108401683425295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_58
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 28
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3514c078d605f40800000000000000
+      internalID: 5715188353926779869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 256
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6af8301c94473920800000000000000
+      internalID: 2969917916351887978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_60
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce426ae229d548510800000000000000
+      internalID: 1550467054151541996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_61
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f6dfc97d59d3220800000000000000
+      internalID: 2467292924153261961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_62
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed66b1b98bf4f8630800000000000000
+      internalID: 3931448654012573406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_63
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bc40ecefcb6b9e0800000000000000
+      internalID: -1605888414546867441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_64
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf7cb412f422fe20800000000000000
+      internalID: 3382806892257247179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_65
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0210ebace2847b510800000000000000
+      internalID: 1564798761341681952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_66
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2e313cc773a5a70800000000000000
+      internalID: 8816420229519499976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_67
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec7aad19db543f40800000000000000
+      internalID: 5707287615849004269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escena_68
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d0c04e1d17a79e0800000000000000
+      internalID: -1622859569425543834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
